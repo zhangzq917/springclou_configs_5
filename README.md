@@ -1,0 +1,2 @@
+# springclou_configs_5
+这是一个springcloud 的configserver注册中心
